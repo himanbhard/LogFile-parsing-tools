@@ -1,6 +1,6 @@
 import os
 
-logFilepath = r"\folder\folder\Logs\PS02\EstesPSTwoPDRouteOptimization"
+logFilepath = r"\folder\folder\Logs"
 searchString = "These are not the droids you are looking for"
 
 def enumerate_files():
